@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "76341613205",
+    "project_id": "studyku-cd0db",
+    "storage_bucket": "studyku-cd0db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76341613205:android:de0fbc3694febb8b4e019c",
+        "android_client_info": {
+          "package_name": "com.studyku.study"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76341613205-dqgjbu9nogclroinfoccq1ggbvi2cf5p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.studyku.study",
+            "certificate_hash": "a80ff50f23b25039856bcb175f4f009317830a21"
+          }
+        },
+        {
+          "client_id": "76341613205-4pj06v3qjurqsggtctgslsuqhkgpr7oi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClAp2GTHf_HzLY24D9ARGlIRIrej5CYAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76341613205-4pj06v3qjurqsggtctgslsuqhkgpr7oi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "76341613205-okoaue81384q6b1i3mcvvk6impglcj6u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.studyku.study"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
